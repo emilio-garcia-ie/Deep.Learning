@@ -1,2 +1,2 @@
 # Deep.Learning
-Notos for a Study group focus on Deep Learning 
+Notes from a Study group focus on Deep Learning 
